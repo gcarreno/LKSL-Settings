@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/11/18 19:42:54.000.298,=rtl.dcp</Transaction>
+    <Transaction>2014/11/18 19:43:03.000.886,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Storage\lksl_settings_storage_interface.pas</Transaction>
+    <Transaction>2014/11/18 19:43:03.000.881,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Storage\lksl_settings_storage.pas</Transaction>
+    <Transaction>2014/11/18 19:43:03.000.884,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Storage\lksl_settings_storage_implementation.pas</Transaction>
+    <Transaction>2014/11/18 19:43:03.000.879,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Storage\LKSL.Settings.Storage.pas</Transaction>
+    <Transaction>2014/11/18 19:43:09.000.262,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\LKSL.Settings.Manager.pas</Transaction>
+    <Transaction>2014/11/18 19:43:09.000.265,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\lksl_settings_manager.pas</Transaction>
+    <Transaction>2014/11/18 19:43:09.000.271,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\lksl_settings_manager_interface.pas</Transaction>
+    <Transaction>2014/11/18 19:43:09.000.268,=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\lksl_settings_manager_implementation.pas</Transaction>
+    <Transaction>2014/11/18 19:45:08.000.655,C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Storage\lksl_settings_storage_implementation.pas=</Transaction>
+    <Transaction>2014/11/18 19:45:09.000.617,C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Storage\lksl_settings_storage_interface.pas=</Transaction>
+    <Transaction>2014/11/18 19:45:30.000.122,C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\lksl_settings_manager_implementation.pas=</Transaction>
+    <Transaction>2014/11/18 19:45:31.000.805,C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\lksl_settings_manager_interface.pas=</Transaction>
+    <Transaction>2014/11/18 19:45:51.000.405,C:\Users\Kraven\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\(DEVELOPMENT)\(SAMPLES)\LKSL\packages\Delphi\XE7\LKSLSettingsXE7.dproj</Transaction>
+    <Transaction>2014/11/18 22:06:20.775,C:\(DEVELOPMENT)\(SAMPLES)\LKSL\Settings\Manager\lksl_settings_manager.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

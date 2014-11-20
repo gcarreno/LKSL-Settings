@@ -1,6 +1,9 @@
 *.*~
+*.~*
 *.compiled
+*.dsk
 *.exe
+*.identcache
 *.obj
 *.o
 *.or
