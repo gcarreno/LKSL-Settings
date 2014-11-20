@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="20">
+      <Unit0>
+        <Filename Value="settingstest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="settingstest"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="7"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SettingsTestFieldsUnit"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="27"/>
+        <CursorPos X="60" Y="49"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="settingstestgroupsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SettingsTestGroupsUnit"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="28" Y="44"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="settingstestunit.pas"/>
+        <UnitName Value="SettingsTestUnit"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="54" Y="39"/>
+        <UsageCount Value="19"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../Settings/Fields/lksl_settings_fields.pas"/>
+        <UnitName Value="LKSL_Settings_Fields"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="250"/>
+        <CursorPos X="7" Y="272"/>
+        <UsageCount Value="18"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../Settings/Groups/lksl_settings_groups.pas"/>
+        <UnitName Value="LKSL_Settings_Groups"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="79"/>
+        <CursorPos X="71" Y="79"/>
+        <UsageCount Value="18"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/fcl-fpcunit/src/fpcunit.pp"/>
+        <UnitName Value="fpcunit"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="80"/>
+        <CursorPos X="21" Y="82"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../../Downloads/Lazarus/Eye Candy Controls/ECC/ecspinctrls.pas"/>
+        <UnitName Value="ECSpinCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="524"/>
+        <CursorPos X="57" Y="537"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../../Downloads/Lazarus/Eye Candy Controls/ECC/eceditbtns.pas"/>
+        <UnitName Value="ECEditBtns"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="467"/>
+        <CursorPos X="56" Y="491"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../../Dropbox/LazComponents/tDBF-6.9.x/packages/Lazarus/tdbf_ld.pas"/>
+        <UnitName Value="tdbf_l"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="8" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../../Dropbox/LazComponents/tDBF-6.9.x/src/dbf_wtil.pas"/>
+        <UnitName Value="dbf_wtil"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="568"/>
+        <CursorPos X="15" Y="580"/>
+        <UsageCount Value="11"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../../Dropbox/LazComponents/tDBF-6.9.x/src/dbf_ansistrings.pas"/>
+        <UnitName Value="dbf_AnsiStrings"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="68"/>
+        <CursorPos X="31" Y="80"/>
+        <UsageCount Value="11"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../../Dropbox/LazComponents/tDBF-6.9.x/src/dbf_common.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="34"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../../Dropbox/LazComponents/tDBF-6.9.x/src/dbf_common.pas"/>
+        <UnitName Value="dbf_common"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="12" Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/fcl-db/src/dbase/dbf_wtil.pas"/>
+        <UnitName Value="dbf_wtil"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="264"/>
+        <CursorPos X="9" Y="276"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../../Dropbox/LazComponents/tDBF-6.9.x/src/dbf.pas"/>
+        <UnitName Value="dbf"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="10" Y="12"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/fcl-db/src/base/db.pas"/>
+        <UnitName Value="db"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../../Downloads/Lazarus/tDBF/tdbf-6.9.1/dbf_reg.pas"/>
+        <UnitName Value="dbf_reg"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="52"/>
+        <CursorPos X="1" Y="63"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/usr/share/lazarus/1.2.6/packager/registration/lazaruspackageintf.pas"/>
+        <UnitName Value="LazarusPackageIntf"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/share/fpcsrc/2.6.4/packages/fcl-db/src/base/bufdataset.pas"/>
+        <UnitName Value="BufDataset"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="12"/>
+        <CursorPos X="26" Y="24"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="settingstestgroupsunit.pas"/>
+        <Caret Line="12" Column="9" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="settingstestgroupsunit.pas"/>
+        <Caret Line="18" Column="1" TopLine="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="settingstestgroupsunit.pas"/>
+        <Caret Line="19" Column="15" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="settingstestgroupsunit.pas"/>
+        <Caret Line="44" Column="69" TopLine="31"/>
+      </Position4>
+      <Position5>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <Caret Line="23" Column="20" TopLine="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <Caret Line="24" Column="36" TopLine="9"/>
+      </Position6>
+      <Position7>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <Caret Line="25" Column="36" TopLine="16"/>
+      </Position7>
+      <Position8>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <Caret Line="71" Column="16" TopLine="61"/>
+      </Position8>
+      <Position9>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <Caret Line="72" Column="9" TopLine="59"/>
+      </Position9>
+      <Position10>
+        <Filename Value="settingstestfieldsunit.pas"/>
+        <Caret Line="26" Column="30" TopLine="11"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
