@@ -1,6 +1,12 @@
 *.*~
+*.compiled
 *.exe
 *.obj
 *.o
+*.or
 *.ppu
+bin/*.res
+bin/lib
+bin/settingstest
+bin/SimpleSettings*
 backup
