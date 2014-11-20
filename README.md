@@ -1,6 +1,6 @@
 #Main LKSL#
 
-##Settings##
+###Settings###
 
 Set of components and classes to manage Settings on an application.
 
