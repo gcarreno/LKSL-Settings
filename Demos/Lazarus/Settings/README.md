@@ -1,4 +1,4 @@
-#Lazarus Demos#
+#Lazarus Settings Demos#
 
 ##SimpleSettings##
 
