@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <Name Value="LKSL_Settings"/>
+    <Author Value="Gustavo Carreno &lt;guscarreno@gmail.com>"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <SearchPaths>
+        <OtherUnitFiles Value="../../Settings/Storage;../../Settings/Manager;../../Settings/Groups;../../Settings/Fields"/>
+        <UnitOutputDirectory Value="../../bin/lib/$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <Other>
+        <CompilerMessages>
+          <MsgFileName Value=""/>
+        </CompilerMessages>
+        <CompilerPath Value="$(CompPath)"/>
+      </Other>
+    </CompilerOptions>
+    <Description Value="A complete implementation of settings with data aware editors."/>
+    <Version Minor="2"/>
+    <Files Count="4">
+      <Item1>
+        <Filename Value="../../Settings/Storage/lksl_settings_storage.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="LKSL_Settings_Storage"/>
+      </Item1>
+      <Item2>
+        <Filename Value="../../Settings/Manager/lksl_settings_manager.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="LKSL_Settings_Manager"/>
+      </Item2>
+      <Item3>
+        <Filename Value="../../Settings/Groups/lksl_settings_groups.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="LKSL_Settings_Groups"/>
+      </Item3>
+      <Item4>
+        <Filename Value="../../Settings/Fields/lksl_settings_fields.pas"/>
+        <UnitName Value="lksl_settings_fields"/>
+      </Item4>
+    </Files>
+    <Type Value="RunAndDesignTime"/>
+    <RequiredPkgs Count="1">
+      <Item1>
+        <PackageName Value="FCL"/>
+      </Item1>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>
