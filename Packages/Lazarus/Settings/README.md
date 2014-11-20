@@ -1,4 +1,4 @@
-#Lazarus Packages#
+#Lazarus Settings Packages#
 
 At the moment just a runtime package.
 
