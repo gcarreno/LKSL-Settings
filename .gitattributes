@@ -6,6 +6,8 @@
 *.pas text
 *.pp  text
 *.lpk text
+*.lpi text
+*.lps text
 
 # Declare files that will always have CRLF line endings on checkout.
 *.dpk   text eol=crlf

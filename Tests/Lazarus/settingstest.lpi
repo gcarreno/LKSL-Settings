@@ -63,7 +63,7 @@
     <Version Value="11"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="../../bin"/>
+      <OtherUnitFiles Value="../../bin;../../Packages/Lazarus/Settings;../../Source/Lazarus/Lib/Settings/Editors;../../Source/Lazarus/Lib/Settings/Fields;../../Source/Lazarus/Lib/Settings/Groups;../../Source/Lazarus/Lib/Settings/Manager;../../Source/Lazarus/Lib/Settings/Storage"/>
       <UnitOutputDirectory Value="../../bin"/>
     </SearchPaths>
     <Other>

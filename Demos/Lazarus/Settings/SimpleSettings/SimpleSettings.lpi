@@ -54,11 +54,11 @@
   <CompilerOptions>
     <Version Value="11"/>
     <Target>
-      <Filename Value="../../../bin/SimpleSettings-$(TargetCPU)-$(TargetOS)"/>
+      <Filename Value="../../../../bin/SimpleSettings-$(TargetCPU)-$(TargetOS)"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <UnitOutputDirectory Value="../../../bin/lib/$(TargetCPU)-$(TargetOS)"/>
+      <UnitOutputDirectory Value="../../../../bin/lib/$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>
       <Options>

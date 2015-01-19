@@ -6,7 +6,7 @@
     <CompilerOptions>
       <Version Value="11"/>
       <SearchPaths>
-        <OtherUnitFiles Value="../../Settings/Storage;../../Settings/Manager;../../Settings/Groups;../../Settings/Fields"/>
+        <OtherUnitFiles Value="../../../Source/Lazarus/Lib/Settings/Editors;../../../Source/Lazarus/Lib/Settings/Fields;../../../Source/Lazarus/Lib/Settings/Groups;../../../Source/Lazarus/Lib/Settings/Manager;../../../Source/Lazarus/Lib/Settings/Storage"/>
         <UnitOutputDirectory Value="../../bin/lib/$(TargetCPU)-$(TargetOS)"/>
       </SearchPaths>
       <Other>
@@ -20,23 +20,23 @@
     <Version Minor="2"/>
     <Files Count="4">
       <Item1>
-        <Filename Value="../../Settings/Storage/lksl_settings_storage.pas"/>
-        <HasRegisterProc Value="True"/>
-        <UnitName Value="LKSL_Settings_Storage"/>
+        <Filename Value="../../../Source/Lazarus/Lib/Settings/Fields/lksl_settings_fields.pas"/>
+        <UnitName Value="LKSL_Settings_Fields"/>
       </Item1>
       <Item2>
-        <Filename Value="../../Settings/Manager/lksl_settings_manager.pas"/>
-        <HasRegisterProc Value="True"/>
-        <UnitName Value="LKSL_Settings_Manager"/>
-      </Item2>
-      <Item3>
-        <Filename Value="../../Settings/Groups/lksl_settings_groups.pas"/>
+        <Filename Value="../../../Source/Lazarus/Lib/Settings/Groups/lksl_settings_groups.pas"/>
         <HasRegisterProc Value="True"/>
         <UnitName Value="LKSL_Settings_Groups"/>
+      </Item2>
+      <Item3>
+        <Filename Value="../../../Source/Lazarus/Lib/Settings/Manager/lksl_settings_manager.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="LKSL_Settings_Manager"/>
       </Item3>
       <Item4>
-        <Filename Value="../../Settings/Fields/lksl_settings_fields.pas"/>
-        <UnitName Value="lksl_settings_fields"/>
+        <Filename Value="../../../Source/Lazarus/Lib/Settings/Storage/lksl_settings_storage.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="LKSL_Settings_Storage"/>
       </Item4>
     </Files>
     <Type Value="RunAndDesignTime"/>

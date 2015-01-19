@@ -3,12 +3,11 @@
   <ProjectSession>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="20">
+    <Units Count="22">
       <Unit0>
         <Filename Value="settingstest.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="settingstest"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
@@ -31,6 +30,7 @@
         <Filename Value="settingstestgroupsunit.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="SettingsTestGroupsUnit"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="22"/>
@@ -173,6 +173,19 @@
         <CursorPos X="26" Y="24"/>
         <UsageCount Value="10"/>
       </Unit19>
+      <Unit20>
+        <Filename Value="../../Packages/Lazarus/Settings/lksl_settings.lpk"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="../../Packages/Lazarus/Settings/lksl_settings.pas"/>
+        <UnitName Value="LKSL_Settings"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit21>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>

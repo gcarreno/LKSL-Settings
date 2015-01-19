@@ -7,16 +7,16 @@ unit LKSL_Settings;
 interface
 
 uses
-  LKSL_Settings_Storage, LKSL_Settings_Manager, LKSL_Settings_Groups, 
-  LKSL_Settings_Fields, LazarusPackageIntf;
+  LKSL_Settings_Fields, LKSL_Settings_Groups, LKSL_Settings_Manager, 
+  LKSL_Settings_Storage, LazarusPackageIntf;
 
 implementation
 
 procedure Register;
 begin
-  RegisterUnit('LKSL_Settings_Storage', @LKSL_Settings_Storage.Register);
-  RegisterUnit('LKSL_Settings_Manager', @LKSL_Settings_Manager.Register);
   RegisterUnit('LKSL_Settings_Groups', @LKSL_Settings_Groups.Register);
+  RegisterUnit('LKSL_Settings_Manager', @LKSL_Settings_Manager.Register);
+  RegisterUnit('LKSL_Settings_Storage', @LKSL_Settings_Storage.Register);
 end;
 
 initialization
