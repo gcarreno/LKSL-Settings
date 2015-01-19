@@ -7,7 +7,7 @@
       <Version Value="11"/>
       <SearchPaths>
         <OtherUnitFiles Value="../../../Source/Lazarus/Lib/Settings/Editors;../../../Source/Lazarus/Lib/Settings/Fields;../../../Source/Lazarus/Lib/Settings/Groups;../../../Source/Lazarus/Lib/Settings/Manager;../../../Source/Lazarus/Lib/Settings/Storage"/>
-        <UnitOutputDirectory Value="../../bin/lib/$(TargetCPU)-$(TargetOS)"/>
+        <UnitOutputDirectory Value="../../../bin/lib/$(TargetCPU)-$(TargetOS)"/>
       </SearchPaths>
       <Other>
         <CompilerMessages>
