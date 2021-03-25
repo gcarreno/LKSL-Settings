@@ -1,4 +1,4 @@
-#LKSL Settings#
+# LKSL Settings
 
 Set of components and classes to manage Settings on an application.
 
